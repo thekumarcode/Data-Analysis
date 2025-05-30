@@ -1,2 +1,6 @@
-# Data-Analysis
-This project is an interactive HR analytics dashboard created using Microsoft Power BI. It presents key insights into various human resource functions such as employee distribution, recruitment, attrition, diversity, and performance metrics.  
+# HR Analytics Dashboard using Power BI
+
+## 🎯 Objective
+
+The objective of this project is to build a dynamic and interactive HR analytics dashboard using Microsoft Power BI. The goal is to help HR teams and decision-makers monitor workforce metrics, identify trends, and make data-driven decisions related to employee performance, recruitment, attrition, and diversity.
+
